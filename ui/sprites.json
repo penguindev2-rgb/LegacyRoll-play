@@ -1,0 +1,86 @@
+{
+  "frame-blue": {
+    "width": 705,
+    "height": 267
+  },
+  "frame-blue-wide": {
+    "width": 881,
+    "height": 267
+  },
+  "frame-storm": {
+    "width": 707,
+    "height": 266
+  },
+  "frame-storm-wide": {
+    "width": 884,
+    "height": 266
+  },
+  "frame-dark": {
+    "width": 715,
+    "height": 241
+  },
+  "frame-dark-wide": {
+    "width": 894,
+    "height": 241
+  },
+  "frame-bright": {
+    "width": 707,
+    "height": 231
+  },
+  "frame-bright-wide": {
+    "width": 884,
+    "height": 231
+  },
+  "plate-blue": {
+    "width": 338,
+    "height": 176
+  },
+  "plate-violet": {
+    "width": 335,
+    "height": 176
+  },
+  "plate-dark": {
+    "width": 330,
+    "height": 176
+  },
+  "round-play": {
+    "width": 221,
+    "height": 230
+  },
+  "round-play-violet": {
+    "width": 217,
+    "height": 227
+  },
+  "round-home": {
+    "width": 201,
+    "height": 200
+  },
+  "round-settings": {
+    "width": 193,
+    "height": 200
+  },
+  "round-cart": {
+    "width": 197,
+    "height": 198
+  },
+  "round-profile": {
+    "width": 194,
+    "height": 198
+  },
+  "round-friends": {
+    "width": 194,
+    "height": 197
+  },
+  "round-mail": {
+    "width": 191,
+    "height": 195
+  },
+  "round-bell": {
+    "width": 194,
+    "height": 196
+  },
+  "emblem": {
+    "width": 1280,
+    "height": 741
+  }
+}
